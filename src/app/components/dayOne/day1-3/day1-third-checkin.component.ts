@@ -12,7 +12,7 @@ export class Day1ThirdCheckinComponent implements OnInit {
     iconName: "home",
     title: "Tropicana Macalister",
     subtitle: "Estimated time: 1.5 hr. Next activity at 6:30pm",
-    img: "../../../assets/airbnb",
+    img: "./assets/airbnb",
     description: "After a long day, it's time to check in!",
   };
 

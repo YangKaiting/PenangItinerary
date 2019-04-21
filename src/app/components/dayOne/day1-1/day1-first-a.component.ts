@@ -14,7 +14,7 @@ export class Day1FirstAComponent implements OnInit {
     iconName: "restaurant",
     title: "China House",
     subtitle: "Estimated time: 1 hr. Leave by 1pm",
-    img: "../../../assets/chinahouse.jpg",
+    img: "./assets/chinahouse.jpg",
     description: "ChinaHouse is a traditional compound of 3 heritage buildings, linked by an open air courtyard and converted into 14 spaces comprising shops, cafes, restaurant, galleries, live music and bakery.",
   };
 

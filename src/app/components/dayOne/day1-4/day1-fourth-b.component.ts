@@ -12,7 +12,7 @@ export class Day1FourthBComponent implements OnInit {
     iconName: "camera_alt",
     title: "Avatar Secret Garden",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/penang-secret-garden-avatar.png",
+    img: "./assets/penang-secret-garden-avatar.png",
     description: "Nestled in Tanjung Tokong, behind the Thai Pak Koong Temple is the Pandora inspired secret garden. The Penang Avatar Secret Garden was a project by MBI which turn this piece of greens into a neon fantasy. Neon LED lights are draped and wrapped at the branches and trunks of trees. Finding your way to the Penang Avatar Secret Garden might be a little tricky. At the traffic light further down Tesco Tanjung Tokong, turn right. Go all the way in and you’ll find the place. At 7:35 p.m., watch the garden turn into a magical land.",
   };
 

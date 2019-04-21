@@ -12,7 +12,7 @@ export class Day1FirstBComponent implements OnInit {
     iconName: "restaurant",
     title: "Tiger Char Koay Teow",
     subtitle: "Estimated time: 1 hr. Leave by 1pm",
-    img: "../../../assets/tigercharkoayteow.jpg",
+    img: "./assets/tigercharkoayteow.jpg",
     description: "Penang-style Char Koay Teow is the flavor of ‘wok hei’, and the freshness of the ingredients.",
   };
 
@@ -42,7 +42,7 @@ export class Day1FirstBComponent implements OnInit {
     iconName: "restaurant",
     title: "Pitt Street Koay Teow Th'ng",
     subtitle: "Estimated time: 1 hr. Leave by 1pm",
-    img: "../../../assets/pittstreetkkt.jpg",
+    img: "./assets/pittstreetkkt.jpg",
     description: "aka Eel Fish Ball Noodle. Visit this store for their EEL MEATBALLS! Don’t expect the bouncy texture of fishballs but more of the tender soft feeling.",
   };
 

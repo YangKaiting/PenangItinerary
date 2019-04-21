@@ -12,7 +12,7 @@ export class Day1FifthAComponent implements OnInit {
     iconName: "local_bar",
     title: "Chulia Court The Tavern",
     subtitle: "Estimated time: 2 hrs",
-    img: "../../../assets/chulia-court",
+    img: "./assets/chulia-court",
     description: "one of the best adaptations of a heritage shop-house for a restaurant, music bar and boutique guesthouse situated in the heart of Unesco World Heritage City of Georgetown.",
   };
 

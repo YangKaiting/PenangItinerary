@@ -12,7 +12,7 @@ export class Day1FourthAComponent implements OnInit {
     iconName: "camera_alt",
     title: "Komtar - Rainbow Skywalk",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/komtarrainbowskywalk.jpg",
+    img: "./assets/komtarrainbowskywalk.jpg",
     description: "The Komtar Skywalk is the highest outdoor glass sky walk in Malaysia. It is located at the top of Komtar, the tallest skyscraper in George Town, Penang. The horseshoe-shaped cantilever bridge with a glass walkway sits at an elevation of nearly 250 metres above ground.",
   };
 

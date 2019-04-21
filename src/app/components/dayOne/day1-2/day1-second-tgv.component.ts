@@ -12,7 +12,7 @@ export class Day1SecondTGVComponent implements OnInit {
     iconName: "help_outline",
     title: "TGV",
     subtitle: "Estimated time: 3.5 hr. Leave by 5pm",
-    img: "../../../assets/giphy-qm.gif",
+    img: "./assets/giphy-qm.gif",
     description: "Hint: Its the final game!",
   };
 
