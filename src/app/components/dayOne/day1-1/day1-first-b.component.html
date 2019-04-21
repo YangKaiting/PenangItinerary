@@ -1,0 +1,66 @@
+<mat-card class="example-card">
+
+
+  <mat-tab-group>
+    <mat-tab label="Char Koay Teow">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image">
+          <mat-icon class="material-icons-logo">{{ itinerary1.iconName }}</mat-icon>
+        </div>
+        <mat-card-title>{{ itinerary1.title }}</mat-card-title>
+        <mat-card-subtitle>{{ itinerary1.subtitle }}</mat-card-subtitle>
+      </mat-card-header>
+      <img mat-card-image src={{itinerary1.img}} alt={{itinerary1.title}}>
+      <mat-card-content>
+        <p>{{ itinerary1.description }}</p>
+
+        <mat-accordion multi="false">
+          <mat-expansion-panel *ngFor="let c of bodyContent1">
+            <mat-expansion-panel-header>
+              <mat-icon class="material-icons-panel">{{ c.iconName }}</mat-icon>&nbsp;<strong>{{ c.label }}</strong>
+            </mat-expansion-panel-header>
+            {{ c.details }}
+          </mat-expansion-panel>
+        </mat-accordion>
+
+      </mat-card-content>
+      <mat-card-actions>
+        <a *ngFor="let l of links1" href={{l.link}}><button mat-button>{{ l.name }}</button></a>
+      </mat-card-actions>
+    </mat-tab>
+
+
+    <mat-tab label="Koay Teow Th'ng">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image">
+          <mat-icon class="material-icons-logo">{{ itinerary2.iconName }}</mat-icon>
+        </div>
+        <mat-card-title>{{ itinerary2.title }}</mat-card-title>
+        <mat-card-subtitle>{{ itinerary2.subtitle }}</mat-card-subtitle>
+      </mat-card-header>
+      <img mat-card-image src={{itinerary2.img}} alt="{{itinerary2.title}}">
+      <mat-card-content>
+        <p>{{ itinerary2.description }}</p>
+
+        <mat-accordion multi="false">
+          <mat-expansion-panel *ngFor="let c of bodyContent2">
+            <mat-expansion-panel-header>
+              <mat-icon class="material-icons-panel">{{ c.iconName }}</mat-icon>&nbsp;<strong>{{ c.label }}</strong>
+            </mat-expansion-panel-header>
+            {{ c.details }}
+          </mat-expansion-panel>
+        </mat-accordion>
+
+      </mat-card-content>
+      <mat-card-actions>
+        <a *ngFor="let l of links2" href={{l.link}}><button mat-button>{{ l.name }}</button></a>
+
+      </mat-card-actions>
+    </mat-tab>
+
+  </mat-tab-group>
+
+
+
+
+</mat-card>

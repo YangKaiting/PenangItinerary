@@ -1,0 +1,14 @@
+.info {
+    padding: 6px;
+    text-align:
+    justify; font-size: 11px;
+}
+
+.nextActivity {
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+    width: 100%;
+    text-align: right;
+    margin-left: 90px;
+}

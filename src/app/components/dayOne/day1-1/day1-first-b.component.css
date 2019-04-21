@@ -1,0 +1,24 @@
+.example-card {
+    max-width: 100%;
+}
+.example-header-image {
+    background-color: rgb(175, 255, 228);
+}
+
+.material-icons-logo {
+    padding-left: 7px;
+    padding-top: 7px;
+}
+
+.material-icons-panel {
+    font-size: 18px;
+}
+
+.mat-expansion-panel-header {
+    vertical-align: bottom ;
+    align-items: center
+}
+
+mat-card-header {
+    margin-top: 5px;
+}

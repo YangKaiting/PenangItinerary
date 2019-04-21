@@ -1,0 +1,50 @@
+.background {
+    background-image: url(../../../../assets/giphy-rnm-goodbye.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    background-position-y: 25%;
+    background-color: black;
+    width: 100%;
+    position: absolute;
+}
+
+.wrap {
+    position: relative;
+    top: 70%;
+    width: 30%;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* text-align: center; */
+    /* background-color: pink; */
+    margin-left: auto;
+    margin-right: 10%;
+    /* margin-top: 60%; */
+    /* width: 90%;   */
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+p {
+    color: white;
+    position: relative;
+    top: 55%;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: small;
+}
+
+h2 {
+    color: white;
+    position: relative;
+    top: 7%;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.choices-button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;  
+    text-align: center;
+}
+
+.choices-button a {
+    width: 80%;  
+    height: 20vh;
+    white-space: pre-wrap !important;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
