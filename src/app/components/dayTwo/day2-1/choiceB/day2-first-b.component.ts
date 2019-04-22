@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { itinerary, content, navigation } from './model';
+import { itinerary, content, navigation } from '../../../model';
 
 @Component({
   selector: 'app-day2-first-b',

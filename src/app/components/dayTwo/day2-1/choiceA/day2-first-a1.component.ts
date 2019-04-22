@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { itinerary, content, navigation } from './../components/model';
+import { itinerary, content, navigation } from '../../../../components/model';
 
 
 @Component({
