@@ -12,7 +12,7 @@ export class Day2ThirdChewComponent implements OnInit {
     iconName: "camera_alt",
     title: "Chew Jetty",
     subtitle: "45min",
-    img: "../../../assets/chewjetty.jpg",
+    img: "./assets/chewjetty.jpg",
     description: "The largest and most intact of the clan jetties, Chew Jetty consists of 75 elevated houses, several Chinese temples, a community hall and lots of tourist facilities, all linked by elevated wooden walkways.",
   };
 

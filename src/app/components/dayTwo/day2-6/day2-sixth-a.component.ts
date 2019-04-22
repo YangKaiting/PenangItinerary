@@ -12,7 +12,7 @@ export class Day2SixthAComponent implements OnInit {
     iconName: "local_bar",
     title: "Out of Nowhere",
     subtitle: "Estimated time: till dawn",
-    img: "../../../assets/nowhere.jpg",
+    img: "./assets/nowhere.jpg",
     description: "You would think that the big orange fridge they have behind the counter is responsible for keeping your milk chilled. Wrong! It’s actually a secret entrance to a hidden bar, Out of Nowhere.",
   };
 

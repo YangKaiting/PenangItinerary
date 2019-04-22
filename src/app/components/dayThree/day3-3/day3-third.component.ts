@@ -12,7 +12,7 @@ export class Day3ThirdComponent implements OnInit {
     iconName: "camera_alt",
     title: "Cheong Fatt Tze - The Blue Mansion",
     subtitle: "Estimated time: 45min",
-    img: "../../../assets/bluemansion.jpg",
+    img: "./assets/bluemansion.jpg",
     description: "The Cheong Fatt Tze Mansion is a government gazetted heritage building located on Leith Street in George Town, Penang, Malaysia. The mansion's external decorations and indigo-blue outer walls make it a very distinctive building, and it is sometimes referred to as The Blue Mansion. A must see if you want to experience an important part of Penang’s colourful history and one of its most iconic pieces of architecture...",
   };
 

@@ -12,7 +12,7 @@ export class Day3SecondComponent implements OnInit {
     iconName: "local_bar",
     title: "Out of Nowhere",
     subtitle: "Estimated time: till dawn",
-    img: "../../../assets/gheehiang.jpg",
+    img: "./assets/gheehiang.jpg",
     description: "A heritage over 160 years. Originated from Fujian, China since 1856, Ghee Hiang has become an integral part of Penang, Malaysia's colourful heritage and mesmerising traditions.",
   };
 

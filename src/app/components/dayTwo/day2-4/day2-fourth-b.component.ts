@@ -12,7 +12,7 @@ export class Day2FourthBComponent implements OnInit {
     iconName: "restaurant",
     title: "888 Hokkien Mee",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/888hokkien.jpg",
+    img: "./assets/888hokkien.jpg",
     description: "Not to be confused with the Hokkien Mee of Singapore, this is similar to Singapore's version of prawn noodle. The Penang Hokkien Mee is a spicy soup of mee (egg noodles) and bihun (rice noodles) in a stock made from prawn, dried shrimp, pork ribs or chicken stock.",
   };
 

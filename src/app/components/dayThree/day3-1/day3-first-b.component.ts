@@ -12,7 +12,7 @@ export class Day3FirstBComponent implements OnInit {
     iconName: "restaurant",
     title: "Wai Kee Char Siew",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/waikee.jpg",
+    img: "./assets/waikee.jpg",
     description: "Come before 11am, where there is not much people waiting yet",
   };
 

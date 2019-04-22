@@ -12,7 +12,7 @@ export class Day2ThirdJubileeComponent implements OnInit {
     iconName: "camera_alt",
     title: "Jubilee Clock Tower",
     subtitle: "5min",
-    img: "../../../assets/jubileeclocktower.jpg",
+    img: "./assets/jubileeclocktower.jpg",
     description: "The Jubilee Clock Tower, in George Town, Penang, Malaysia, is a Moorish-style Jubilee clocktower at the junction of Light Street and Beach Street. Built to commemorate Queen Victoria's 1897 Diamond Jubilee, the tower is sixty feet tall, one foot for each year of Victoria's reign. A corner of the wall surrounding Fort Cornwallis is situated behind the tower.",
   };
 

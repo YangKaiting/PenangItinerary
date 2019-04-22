@@ -12,7 +12,7 @@ export class Day3FifthBComponent implements OnInit {
     iconName: "restaurant",
     title: "Awesome Canteen",
     subtitle: "Leave by 6:00pm",
-    img: "../../../assets/awesomecanteen.jpg",
+    img: "./assets/awesomecanteen.jpg",
     description: "Awesome Canteen is famed for their Paleo meal.",
   };
 

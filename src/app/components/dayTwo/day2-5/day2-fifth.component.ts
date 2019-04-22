@@ -12,7 +12,7 @@ export class Day2FifthComponent implements OnInit {
     iconName: "home",
     title: "Tropicana Macalister",
     subtitle: "Estimated time: 2 hrs",
-    img: "../../../assets/airbnb",
+    img: "./assets/airbnb",
     description: "Let's go back to rest and freshen up for more nightlife later!",
   };
 

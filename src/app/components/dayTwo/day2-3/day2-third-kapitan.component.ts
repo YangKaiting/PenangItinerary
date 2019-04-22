@@ -12,7 +12,7 @@ export class Day2ThirdKapitanComponent implements OnInit {
     iconName: "camera_alt",
     title: "Kapitan Keling Mosque",
     subtitle: "20min",
-    img: "../../../assets/kapitan.jpg",
+    img: "./assets/kapitan.jpg",
     description: "The Kapitan Keling Mosque is a mosque built in the 19th century by Indian Muslim traders in George Town, Penang, Malaysia. ",
   };
 

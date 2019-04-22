@@ -12,7 +12,7 @@ export class Day2ThirdLilIndiaComponent implements OnInit {
     iconName: "camera_alt",
     title: "Little India",
     subtitle: "15min",
-    img: "../../../assets/lilindia.jpg",
+    img: "./assets/lilindia.jpg",
     description: "Little India is an enclave within the inner quarters of George Town, Penang. As with other Little Indias elsewhere, the Little India of George Town is lined with shops managed by the Indian Community. It's a place to enjoy a kaleidoscope of colours and sounds, with goods from India spilling to the sidewalks, the smell of various spices in the air and Indian music blaring from loud speakers.",
   };
 

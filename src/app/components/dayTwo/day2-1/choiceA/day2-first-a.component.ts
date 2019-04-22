@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { itinerary, content, navigation } from '../../../../components/model';
+import { itinerary, content, navigation } from './../components/model';
 
 @Component({
   selector: 'app-day2-first-a',
@@ -12,7 +12,7 @@ export class Day2FirstAComponent implements OnInit {
     iconName: "restaurant",
     title: "Sin Kim San Hawker Center",
     subtitle: "Estimated time: 30 min",
-    img: "../../../assets/bananapancake.jpg",
+    img: "./assets/bananapancake.jpg",
     description: "",
   };
 

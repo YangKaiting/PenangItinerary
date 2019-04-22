@@ -12,7 +12,7 @@ export class Day2ThirdCornwallisComponent implements OnInit {
     iconName: "camera_alt",
     title: "Fort Cornwallis, Lebuh Light",
     subtitle: "15min",
-    img: "../../../assets/fortcornwallis.jpg",
+    img: "./assets/fortcornwallis.jpg",
     description: "Fort Cornwallis is the largest standing fort in Malaysia. Set close to the Esplanade and Penang Clocktower, the star-shaped bastion is one of the oldest structures in Penang. Named after Marquis Charles Cornwallis, only a set of ten-foot high outer walls remain, with an enclosed park within.",
   };
 

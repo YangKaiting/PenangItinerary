@@ -12,7 +12,7 @@ export class Day2SecondBComponent implements OnInit {
     iconName: "restaurant",
     title: "The Mugshot Cafe",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/themugshotcafe.jpg",
+    img: "./assets/themugshotcafe.jpg",
     description: "This cafe serves one of the best bagels and homemade yogurt with various toppings... and mugshots too!",
   };
 

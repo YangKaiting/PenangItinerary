@@ -12,7 +12,7 @@ export class Day2ThirdAComponent implements OnInit {
     iconName: "camera_alt",
     title: "Leong San Tong Khoo Kongsi's Clan House and Museum",
     subtitle: "Estimated time: 1.5 - 2 hr",
-    img: "../../../assets/khookongsi.jpg",
+    img: "./assets/khookongsi.jpg",
     description: "Leong San Tong Khoo Kongsi, or Khoo Kongsi for short, is one of the most distinctive Chinese clan association in Malaysia. It is well known worldwide for its extensive lineage that can be traced back 650 years ago, as well as its closely-knit and defensive congregation of buildings and a magnificent clanhouse.",
   };
 

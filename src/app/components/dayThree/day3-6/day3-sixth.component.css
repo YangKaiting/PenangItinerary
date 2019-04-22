@@ -1,5 +1,5 @@
 .background {
-    background-image: url(../../../../assets/giphy-rnm-goodbye.gif);
+    background-image: url(./../assets/giphy-rnm-goodbye.gif);
     background-repeat: no-repeat;
     background-size: contain;
     height: 100vh;

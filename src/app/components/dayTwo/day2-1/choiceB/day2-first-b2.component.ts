@@ -12,7 +12,7 @@ export class Day2FirstB2Component implements OnInit {
     iconName: "restaurant",
     title: "Air Itam Laksa",
     subtitle: "Estimated time: 30 min",
-    img: "../../../assets/airhitamlaksa.jpg",
+    img: "./assets/airhitamlaksa.jpg",
     description: "Here you can find the legendary mouth-watering Air Itam assam laksa.",
   };
 

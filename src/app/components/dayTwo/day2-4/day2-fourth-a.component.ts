@@ -12,7 +12,7 @@ export class Day2FourthAComponent implements OnInit {
     iconName: "restaurant",
     title: "Xiang Peng Peng Salted Chicken",
     subtitle: "Estimated time: 1 hr",
-    img: "../../../assets/saltedchicken.jpg",
+    img: "./assets/saltedchicken.jpg",
     description: "The best salted chicken ever in Penang!",
   };
 

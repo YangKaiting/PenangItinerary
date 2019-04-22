@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { itinerary, content, navigation } from '../../../../components/model';
+import { itinerary, content, navigation } from './../components/model';
 
 
 @Component({
@@ -13,7 +13,7 @@ export class Day2FirstA1Component implements OnInit {
     iconName: "camera_alt",
     title: "Kek Lok Si Temple",
     subtitle: "Estimated time: 2 hr",
-    img: "../../../assets/kekloksi.jpg",
+    img: "./assets/kekloksi.jpg",
     description: "Kek Lok Si also known as the Temple of Supreme Bliss. It is said to be the largest Buddhist temple in Southeast Asia, and arguably one of the most famous in Penang.",
   };
 

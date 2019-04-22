@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { itinerary, content, navigation } from '../../../../components/model';
+import { itinerary, content, navigation } from './../components/model';
 
 @Component({
   selector: 'app-day2-first-a2',
@@ -12,7 +12,7 @@ export class Day2FirstA2Component implements OnInit {
     iconName: "restaurant",
     title: "Sister Curry Mee",
     subtitle: "Estimated time: 30 min",
-    img: "../../../assets/sistercurrymee.jpg",
+    img: "./assets/sistercurrymee.jpg",
     description: "This is a 73-year-old business run by a pair of Penang sisters, selling heartwarming bowls of curry mee.",
   };
 
@@ -42,7 +42,7 @@ export class Day2FirstA2Component implements OnInit {
     iconName: "restaurant",
     title: "Air Itam Laksa",
     subtitle: "Estimated time: 30 min",
-    img: "../../../assets/airhitamlaksa.jpg",
+    img: "./assets/airhitamlaksa.jpg",
     description: "Here you can find the legendary mouth-watering Air Itam assam laksa.",
   };
 

@@ -12,7 +12,7 @@ export class Day3FirstAComponent implements OnInit {
     iconName: "local_bar",
     title: "Kraffmen",
     subtitle: "Estimated time: 1 hr",
-    img: "../../../assets/kraffmen.jpg",
+    img: "./assets/kraffmen.jpg",
     description: "One of the best adaptations of a heritage shop-house for a restaurant, music bar and boutique guesthouse situated in the heart of Unesco World Heritage City of Georgetown.",
   };
 

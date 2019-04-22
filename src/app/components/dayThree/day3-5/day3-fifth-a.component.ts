@@ -12,7 +12,7 @@ export class Day3FifthAComponent implements OnInit {
     iconName: "restaurant",
     title: "Hameediyah Restaurant",
     subtitle: "Leave by 6:00pm",
-    img: "../../../assets/hameediyah.jpg",
+    img: "./assets/hameediyah.jpg",
     description: "Nasi Kandar originates from Penang, and here at this 109-year-old eatery you can find the best Nasi Kandar in Malaysia",
   };
 

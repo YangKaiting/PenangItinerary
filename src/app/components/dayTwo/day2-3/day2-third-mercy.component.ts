@@ -12,7 +12,7 @@ export class Day2ThirdMercyComponent implements OnInit {
     iconName: "camera_alt",
     title: "Goddess of Mercy Temple",
     subtitle: "15min",
-    img: "../../../assets/mercy.jpg",
+    img: "./assets/mercy.jpg",
     description: "The Goddess of Mercy Temple is a Chinese temple in the city of George Town in Penang, Malaysia. Situated at Pitt Street, it was first built in 1728, making it Penang's oldest Taoist temple. The temple is dedicated to the Taoist Goddess of Mercy, Guan Yin.",
   };
 

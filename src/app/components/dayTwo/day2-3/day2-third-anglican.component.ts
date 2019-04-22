@@ -12,7 +12,7 @@ export class Day2ThirdAnglicanComponent implements OnInit {
     iconName: "camera_alt",
     title: "St. George's Anglican Church",
     subtitle: "5min",
-    img: "../../../assets/stgeorgechurch.jpg",
+    img: "./assets/stgeorgechurch.jpg",
     description: "St. George's Church is a 19th-century Anglican church in the city of George Town in Penang, Malaysia. It is the oldest purpose built Anglican church in Southeast Asia. The church lies within the jurisdiction of the Upper North Archedeaconry of the Anglican Diocese of West Malaysia.",
   };
 

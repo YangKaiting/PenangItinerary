@@ -12,7 +12,7 @@ export class Day2ThirdPeranakanComponent implements OnInit {
     iconName: "camera_alt",
     title: "Pinang Peranakan Mansion",
     subtitle: "30min",
-    img: "../../../assets/peranakanmansion.jpg",
+    img: "./assets/peranakanmansion.jpg",
     description: "The Pinang Peranakan Mansion in George Town, Penang, Malaysia, is a museum dedicated to Penang's Peranakan heritage. The museum itself is housed within a distinctive green-hued mansion at Church Street, George Town, which once served as the residence and office of a 19th century Chinese tycoon, Chung Keng Quee.",
   };
 

@@ -12,7 +12,7 @@ export class Day3FourthAComponent implements OnInit {
     iconName: "camera_alt",
     title: "Upside Down Museum",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/upsidedown.jpg",
+    img: "./assets/upsidedown.jpg",
     description: "A place where everything else is turned... upside down",
   };
 

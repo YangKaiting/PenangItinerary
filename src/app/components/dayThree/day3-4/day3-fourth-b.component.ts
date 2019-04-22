@@ -12,7 +12,7 @@ export class Day3FourthBComponent implements OnInit {
     iconName: "camera_alt",
     title: "Dark Mansion - 3D Glow In The Dark Museum",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/darkmuseum.jpg",
+    img: "./assets/darkmuseum.jpg",
     description: "Dark Mansion consists of creative trendy modern artworks that have incorporated science and technology into them which created the latest main attractions and a must-visit museum with friends and family.",
   };
 

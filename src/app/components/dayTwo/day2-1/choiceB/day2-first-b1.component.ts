@@ -12,7 +12,7 @@ export class Day2FirstB1Component implements OnInit {
     iconName: "restaurant",
     title: "Kek Lok Si Temple",
     subtitle: "Estimated time: 2 hr",
-    img: "../../../assets/kekloksi.jpg",
+    img: "./assets/kekloksi.jpg",
     description: "Kek Lok Si also known as the Temple of Supreme Bliss. It is said to be the largest Buddhist temple in Southeast Asia, and arguably one of the most famous in Penang.",
   };
 

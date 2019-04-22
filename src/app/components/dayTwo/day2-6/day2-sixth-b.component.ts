@@ -12,7 +12,7 @@ export class Day2SixthBComponent implements OnInit {
     iconName: "local_bar",
     title: "Arena club Penang",
     subtitle: "Estimated time: till dawn",
-    img: "../../../assets/arena.jpg",
+    img: "./assets/arena.jpg",
     description: "This is the largest club in Penang, with the best lightning. Rated 4.2 stars on Google Reviews",
   };
 

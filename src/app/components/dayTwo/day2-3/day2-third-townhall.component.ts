@@ -12,7 +12,7 @@ export class Day2ThirdTownhallComponent implements OnInit {
     iconName: "camera_alt",
     title: "Penang Townhall",
     subtitle: "5min",
-    img: "../../../assets/townhall.jpg",
+    img: "./assets/townhall.jpg",
     description: "The Town Hall is a British-built administrative building in George Town, Penang, Malaysia. It is located adjacent to the City Hall, which now serves as the seat of the Penang Island City Council.",
   };
 

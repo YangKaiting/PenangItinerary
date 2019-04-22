@@ -12,7 +12,7 @@ export class Day2SecondAComponent implements OnInit {
     iconName: "pets",
     title: "Corgi and the Gang Pet Cafe",
     subtitle: "Estimated time: 1.5 hr",
-    img: "../../../assets/corgipetcafe.jpg",
+    img: "./assets/corgipetcafe.jpg",
     description: "It's the corgis that matter!",
   };
 
