@@ -12,7 +12,7 @@ export class Day1FifthBComponent implements OnInit {
     iconName: "local_bar",
     title: "Burger Bakar Penang",
     subtitle: "Estimated time: 2 hrs",
-    img: "./assets/burgerbakar.JPG",
+    img: "./assets/burgerbakar.jpg",
     description: "Best burger in town! Not the best hygience standard though :P",
   };
 
