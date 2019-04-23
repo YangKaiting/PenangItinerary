@@ -1,11 +1,11 @@
 {
-  "name": "Penang 2019",
+  "name": "penang2019",
   "short_name": "Penang",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "penang2019/",
+  "start_url": "PenangItinerary/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
