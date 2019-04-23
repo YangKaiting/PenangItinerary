@@ -13,7 +13,7 @@ export class Day1FifthBComponent implements OnInit {
     title: "Burger Bakar Penang",
     subtitle: "Estimated time: 2 hrs",
     img: "./assets/burgerbakar.jpg",
-    description: "Best burger in town! Not the best hygience standard though :P",
+    description: "Best burger in town! Not the best hygiene standard though :P",
   };
 
   bodyContent: content[] = [{
