@@ -35,7 +35,7 @@ export class Day3FifthBComponent implements OnInit {
     name: "Open Google Maps"
   }, {
     link: "three/6",
-    name: "Next activity"
+    name: "Goodbye~"
   }]
 
   constructor() { }

@@ -34,7 +34,7 @@ export class Day2FourthAComponent implements OnInit {
     link: "https://goo.gl/maps/BpiXZJmVa6XnUqkXA",
     name: "Open Google Maps"
   }, {
-    link: "two/map",
+    link: "two/5",
     name: "Next activity"
   }]
 

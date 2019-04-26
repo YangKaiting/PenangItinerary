@@ -9,8 +9,8 @@ import { navigation, itinerary, content } from '../../model';
 export class Day3SecondComponent implements OnInit {
 
   itinerary: itinerary = {
-    iconName: "local_bar",
-    title: "Out of Nowhere",
+    iconName: "restaurant",
+    title: "Ghee Hiang",
     subtitle: "Estimated time: till dawn",
     img: "./assets/gheehiang.jpg",
     description: "A heritage over 160 years. Originated from Fujian, China since 1856, Ghee Hiang has become an integral part of Penang, Malaysia's colourful heritage and mesmerising traditions.",
@@ -35,7 +35,7 @@ export class Day3SecondComponent implements OnInit {
     name: "Open Google Maps"
   }, {
     link: "three/3",
-    name: "Check out and then go for next activity"
+    name: "Check out and then next activity"
   }]
 
   constructor() { }
